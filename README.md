@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minhnguyenHHVN
+- 👋 Hi, I’m Minh Nguyen
 - 👀 I’m interested in the recruitment of IT positions
 - 🌱 I’m currently working as an associate recruitment consultant @ Headhunt Vietnam 
 - 💞️ I’m looking to collaborate on Java, SAP and other IT functions
